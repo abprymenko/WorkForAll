@@ -45,3 +45,4 @@ TestResults/
 _ReSharper*/
 *.resharper*
 /WorkForAll.Database/WorkForAll.Database.dbmdl
+/WorkForAll.Database/WorkForAll.Database.jfm
